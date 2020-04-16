@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5eb8759d00ea773c4b7c3bea1a629217",
+    "revision": "9038c465b8efcabf990d21832c072b48",
     "url": "/yatskov-online/index.html"
   },
   {
