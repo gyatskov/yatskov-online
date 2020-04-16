@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/yatskov-online/static/css/main.d1b05096.chunk.css",
+    "main.js": "/yatskov-online/static/js/main.31d4ab65.chunk.js",
+    "main.js.map": "/yatskov-online/static/js/main.31d4ab65.chunk.js.map",
+    "runtime-main.js": "/yatskov-online/static/js/runtime-main.b618525c.js",
+    "runtime-main.js.map": "/yatskov-online/static/js/runtime-main.b618525c.js.map",
+    "static/js/2.a5e4b01f.chunk.js": "/yatskov-online/static/js/2.a5e4b01f.chunk.js",
+    "static/js/2.a5e4b01f.chunk.js.map": "/yatskov-online/static/js/2.a5e4b01f.chunk.js.map",
+    "index.html": "/yatskov-online/index.html",
+    "precache-manifest.e10ceab8dff72eeeafeaf82ba7e4cf3a.js": "/yatskov-online/precache-manifest.e10ceab8dff72eeeafeaf82ba7e4cf3a.js",
+    "service-worker.js": "/yatskov-online/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/yatskov-online/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.a5e4b01f.chunk.js.LICENSE.txt": "/yatskov-online/static/js/2.a5e4b01f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/yatskov-online/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b618525c.js",
+    "static/js/2.a5e4b01f.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.31d4ab65.chunk.js"
+  ]
+}
