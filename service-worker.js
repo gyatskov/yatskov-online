@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/yatskov-online/precache-manifest.79c1e68d4897906efe0a685e6e731a5d.js"
+  "/yatskov-online/precache-manifest.9ff80f32736772016581a426989c3156.js"
 );
 
 self.addEventListener('message', (event) => {
