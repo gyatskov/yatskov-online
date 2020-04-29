@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/yatskov-online/static/css/main.4fe9f24c.chunk.css",
-    "main.js": "/yatskov-online/static/js/main.18a7a261.chunk.js",
-    "main.js.map": "/yatskov-online/static/js/main.18a7a261.chunk.js.map",
+    "main.css": "/yatskov-online/static/css/main.06c14e10.chunk.css",
+    "main.js": "/yatskov-online/static/js/main.30390bd8.chunk.js",
+    "main.js.map": "/yatskov-online/static/js/main.30390bd8.chunk.js.map",
     "runtime-main.js": "/yatskov-online/static/js/runtime-main.b618525c.js",
     "runtime-main.js.map": "/yatskov-online/static/js/runtime-main.b618525c.js.map",
-    "static/js/2.a0dad611.chunk.js": "/yatskov-online/static/js/2.a0dad611.chunk.js",
-    "static/js/2.a0dad611.chunk.js.map": "/yatskov-online/static/js/2.a0dad611.chunk.js.map",
+    "static/css/2.69121389.chunk.css": "/yatskov-online/static/css/2.69121389.chunk.css",
+    "static/js/2.e6e6ab37.chunk.js": "/yatskov-online/static/js/2.e6e6ab37.chunk.js",
+    "static/js/2.e6e6ab37.chunk.js.map": "/yatskov-online/static/js/2.e6e6ab37.chunk.js.map",
     "index.html": "/yatskov-online/index.html",
-    "precache-manifest.db4c99e03f5d770d28e4085fc6bc88f5.js": "/yatskov-online/precache-manifest.db4c99e03f5d770d28e4085fc6bc88f5.js",
+    "precache-manifest.0bf3d9eebbb32c12781be609c575fa19.js": "/yatskov-online/precache-manifest.0bf3d9eebbb32c12781be609c575fa19.js",
     "service-worker.js": "/yatskov-online/service-worker.js",
-    "static/css/main.4fe9f24c.chunk.css.map": "/yatskov-online/static/css/main.4fe9f24c.chunk.css.map",
-    "static/js/2.a0dad611.chunk.js.LICENSE.txt": "/yatskov-online/static/js/2.a0dad611.chunk.js.LICENSE.txt",
+    "static/css/2.69121389.chunk.css.map": "/yatskov-online/static/css/2.69121389.chunk.css.map",
+    "static/css/main.06c14e10.chunk.css.map": "/yatskov-online/static/css/main.06c14e10.chunk.css.map",
+    "static/js/2.e6e6ab37.chunk.js.LICENSE.txt": "/yatskov-online/static/js/2.e6e6ab37.chunk.js.LICENSE.txt",
     "static/media/App.css": "/yatskov-online/static/media/20180517_123646.89d443db.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.b618525c.js",
-    "static/js/2.a0dad611.chunk.js",
-    "static/css/main.4fe9f24c.chunk.css",
-    "static/js/main.18a7a261.chunk.js"
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.e6e6ab37.chunk.js",
+    "static/css/main.06c14e10.chunk.css",
+    "static/js/main.30390bd8.chunk.js"
   ]
 }
