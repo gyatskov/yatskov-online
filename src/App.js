@@ -25,6 +25,13 @@ function App() {
           </Row>
         </Container>
       </Jumbotron>
+      <footer>
+        <Container>
+        <Row>
+          <Col>Copyright 2020</Col>
+        </Row>
+        </Container>
+      </footer>
     </div>
   );
 }
