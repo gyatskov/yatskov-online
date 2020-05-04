@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/yatskov-online/static/css/main.6e803461.chunk.css",
-    "main.js": "/yatskov-online/static/js/main.251e293d.chunk.js",
-    "main.js.map": "/yatskov-online/static/js/main.251e293d.chunk.js.map",
+    "main.css": "/yatskov-online/static/css/main.34aabdb6.chunk.css",
+    "main.js": "/yatskov-online/static/js/main.c50d2866.chunk.js",
+    "main.js.map": "/yatskov-online/static/js/main.c50d2866.chunk.js.map",
     "runtime-main.js": "/yatskov-online/static/js/runtime-main.b618525c.js",
     "runtime-main.js.map": "/yatskov-online/static/js/runtime-main.b618525c.js.map",
     "static/css/2.69121389.chunk.css": "/yatskov-online/static/css/2.69121389.chunk.css",
     "static/js/2.8bd584c7.chunk.js": "/yatskov-online/static/js/2.8bd584c7.chunk.js",
     "static/js/2.8bd584c7.chunk.js.map": "/yatskov-online/static/js/2.8bd584c7.chunk.js.map",
     "index.html": "/yatskov-online/index.html",
-    "precache-manifest.856e61f137c3f793ca2ba7cdd5c37857.js": "/yatskov-online/precache-manifest.856e61f137c3f793ca2ba7cdd5c37857.js",
+    "precache-manifest.6cc4346e7cd70d206d92ba4a5abbc87b.js": "/yatskov-online/precache-manifest.6cc4346e7cd70d206d92ba4a5abbc87b.js",
     "service-worker.js": "/yatskov-online/service-worker.js",
     "static/css/2.69121389.chunk.css.map": "/yatskov-online/static/css/2.69121389.chunk.css.map",
-    "static/css/main.6e803461.chunk.css.map": "/yatskov-online/static/css/main.6e803461.chunk.css.map",
+    "static/css/main.34aabdb6.chunk.css.map": "/yatskov-online/static/css/main.34aabdb6.chunk.css.map",
     "static/js/2.8bd584c7.chunk.js.LICENSE.txt": "/yatskov-online/static/js/2.8bd584c7.chunk.js.LICENSE.txt",
     "static/media/App.css": "/yatskov-online/static/media/20180517_123646.89d443db.jpg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.b618525c.js",
     "static/css/2.69121389.chunk.css",
     "static/js/2.8bd584c7.chunk.js",
-    "static/css/main.6e803461.chunk.css",
-    "static/js/main.251e293d.chunk.js"
+    "static/css/main.34aabdb6.chunk.css",
+    "static/js/main.c50d2866.chunk.js"
   ]
 }
