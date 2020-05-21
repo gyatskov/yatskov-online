@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "73cbef8acc52229b229dd01dce3e8f82",
+    "revision": "261fdba2126e93f5a773f0b17a2328ee",
     "url": "/yatskov-online/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yatskov-online/static/css/2.69121389.chunk.css"
   },
   {
-    "revision": "c5489bf325ee93dbfa17",
-    "url": "/yatskov-online/static/css/main.34aabdb6.chunk.css"
+    "revision": "eed9edb2733393277b8c",
+    "url": "/yatskov-online/static/css/main.ef54c93f.chunk.css"
   },
   {
     "revision": "e5e0418e59a6193b3e5f",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yatskov-online/static/js/2.8bd584c7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c5489bf325ee93dbfa17",
-    "url": "/yatskov-online/static/js/main.c50d2866.chunk.js"
+    "revision": "eed9edb2733393277b8c",
+    "url": "/yatskov-online/static/js/main.582f1656.chunk.js"
   },
   {
     "revision": "8b1c31d4365a9a5da7e2",
