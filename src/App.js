@@ -18,10 +18,9 @@ function App() {
         </header>
         <Container className="Contact-row">
           <Row>
-            <Col className="Contact-pad"><Button variant="dark" block>LinkedIn</Button></Col>
-            <Col className="Contact-pad"><Button variant="dark" block>E-Mail</Button></Col>
-            <Col className="Contact-pad"><Button variant="dark" block>XING</Button></Col>
-            <Col className="Contact-pad"><Button variant="dark" block>Github</Button></Col>
+            <Col className="Contact-pad"><Button href='http://www.linkedin.com/in/gennadij-yatskov' variant="dark" block>LinkedIn</Button></Col>
+            <Col className="Contact-pad"><Button href='mailto:vokstay@gmx.de' variant="dark" block>E-Mail</Button></Col>
+            <Col className="Contact-pad"><Button href='https://github.com/gyatskov' variant="dark" block>Github</Button></Col>
           </Row>
         </Container>
       </Jumbotron>
