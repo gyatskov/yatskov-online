@@ -7,6 +7,8 @@ import Container from 'react-bootstrap/Container'
 import Row from 'react-bootstrap/Row'
 import Col from 'react-bootstrap/Col'
 import logo from './logo/logo_4x.png';
+import icon_linkedin from './icon/B-linkedin.svg';
+import icon_github   from './icon/B-github.svg';
 import './App.css';
 
 function App() {
@@ -18,9 +20,20 @@ function App() {
         </header>
         <Container className="Contact-row">
           <Row>
-            <Col className="Contact-pad"><Button href='http://www.linkedin.com/in/gennadij-yatskov' variant="dark" block>LinkedIn</Button></Col>
-            <Col className="Contact-pad"><Button href='mailto:vokstay@gmx.de' variant="dark" block>E-Mail</Button></Col>
-            <Col className="Contact-pad"><Button href='https://github.com/gyatskov' variant="dark" block>Github</Button></Col>
+            <Col className="Contact-pad">
+              <Button href='http://www.linkedin.com/in/gennadij-yatskov' variant="dark" block>
+                <Image src={icon_linkedin} alt="icon-linkedin" className="Contact-icon" />
+              </Button></Col>
+            <Col className="Contact-pad">
+              <Button href='mailto:gennadij@yatskov.de' variant="dark" block>
+                gennadij@yatskov.de
+              </Button>
+            </Col>
+            <Col className="Contact-pad">
+              <Button href='https://github.com/gyatskov' variant="dark" block>
+                <Image src={icon_github} alt="icon-github" className="Contact-icon" />
+              </Button>
+            </Col>
           </Row>
         </Container>
       </Jumbotron>
@@ -28,6 +41,9 @@ function App() {
         <Container>
         <Row>
           <Col>Copyright 2020</Col>
+        </Row>
+        <Row>
+          <Col><div>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div></Col>
         </Row>
         </Container>
       </footer>
