@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/yatskov-online/static/css/main.778ca3e4.chunk.css",
-    "main.js": "/yatskov-online/static/js/main.b07241ea.chunk.js",
-    "main.js.map": "/yatskov-online/static/js/main.b07241ea.chunk.js.map",
+    "main.css": "/yatskov-online/static/css/main.8049c720.chunk.css",
+    "main.js": "/yatskov-online/static/js/main.0052cbed.chunk.js",
+    "main.js.map": "/yatskov-online/static/js/main.0052cbed.chunk.js.map",
     "runtime-main.js": "/yatskov-online/static/js/runtime-main.b618525c.js",
     "runtime-main.js.map": "/yatskov-online/static/js/runtime-main.b618525c.js.map",
-    "static/css/2.69121389.chunk.css": "/yatskov-online/static/css/2.69121389.chunk.css",
+    "static/css/2.5b44f0a0.chunk.css": "/yatskov-online/static/css/2.5b44f0a0.chunk.css",
     "static/js/2.ff37fce4.chunk.js": "/yatskov-online/static/js/2.ff37fce4.chunk.js",
     "static/js/2.ff37fce4.chunk.js.map": "/yatskov-online/static/js/2.ff37fce4.chunk.js.map",
     "index.html": "/yatskov-online/index.html",
-    "precache-manifest.fdc0a1403427037709055c874d1cc6ef.js": "/yatskov-online/precache-manifest.fdc0a1403427037709055c874d1cc6ef.js",
+    "precache-manifest.9e567d6d2c427b148608e8c1225a12af.js": "/yatskov-online/precache-manifest.9e567d6d2c427b148608e8c1225a12af.js",
     "service-worker.js": "/yatskov-online/service-worker.js",
-    "static/css/2.69121389.chunk.css.map": "/yatskov-online/static/css/2.69121389.chunk.css.map",
-    "static/css/main.778ca3e4.chunk.css.map": "/yatskov-online/static/css/main.778ca3e4.chunk.css.map",
+    "static/css/2.5b44f0a0.chunk.css.map": "/yatskov-online/static/css/2.5b44f0a0.chunk.css.map",
+    "static/css/main.8049c720.chunk.css.map": "/yatskov-online/static/css/main.8049c720.chunk.css.map",
     "static/js/2.ff37fce4.chunk.js.LICENSE.txt": "/yatskov-online/static/js/2.ff37fce4.chunk.js.LICENSE.txt",
     "static/media/App.css": "/yatskov-online/static/media/20180517_123646.89d443db.jpg",
     "static/media/B-github.svg": "/yatskov-online/static/media/B-github.192a6620.svg",
@@ -20,9 +20,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b618525c.js",
-    "static/css/2.69121389.chunk.css",
+    "static/css/2.5b44f0a0.chunk.css",
     "static/js/2.ff37fce4.chunk.js",
-    "static/css/main.778ca3e4.chunk.css",
-    "static/js/main.b07241ea.chunk.js"
+    "static/css/main.8049c720.chunk.css",
+    "static/js/main.0052cbed.chunk.js"
   ]
 }
