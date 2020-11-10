@@ -24,8 +24,8 @@ function App() {
                 <Image src={icon_linkedin} alt="icon-linkedin" className="Contact-icon" />
               </Button></Col>
             <Col className="Contact-pad">
-              <Button href='mailto:gennadij@yatskov.de' variant="dark" block >
-                <address className="text-center centered-button-content">gennadij@yatskov.de</address>
+              <Button href='mailto:gennadij@yatskov.de' variant="dark" block className="vertical-center justify-center">
+                gennadij@yatskov.de
               </Button>
             </Col>
             <Col className="Contact-pad">

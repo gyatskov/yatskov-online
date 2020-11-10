@@ -8,16 +8,12 @@
   background-size: cover;
   animation: fade-slide-down .5s ease-out forwards;
 
-  height: 100vh;
+  height: 96vh;
 }
 
 .App .jumbotron {
   background-color: rgba(0, 0, 0, 0.253);
-  height: 100vh;
-}
-
-.App .jumbotron button {
-  height: 100vh;
+  height: 100%;
 }
 
 .App-header {
@@ -59,27 +55,8 @@
 }
 
 .vertical-center {
-  height:100vh;
-  width:100vh;
-
-  text-align: center;  /* align the inline(-block) elements horizontally */
-  font: 0/0 a;         /* remove the gap between inline(-block) elements */
-}
-
-.vertical-center:before {    /* create a full-height inline block pseudo=element */
-  content: " ";
-  display: inline-block;
-  vertical-align: middle;    /* vertical alignment of the inline element */
-  height: 100vh;
-}
-
-.vertical-center > .container {
-  max-width: 100%;
-
-  display: inline-block;
-  vertical-align: middle;  /* vertical alignment of the inline element */
-                           /* reset the font property */
-  font: 16px/1 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  display: flex;
+  align-items: center;
 }
 
 .centered-button-content {
@@ -91,6 +68,10 @@
   transform: translateY(50%); /* which will put the anchor point to the center of the div */
 }
 
+.justify-center {
+  justify-content: center;
+}
+
 .Contact-icon {
   height: 7vh;
   width:  7vh;
@@ -99,7 +80,7 @@
 footer {
   color: white;
   background-color: rgba(0, 0, 0, 0.5);
-  min-height: 5vh;
+  height: 4vh;
 }
 
 .credits {
