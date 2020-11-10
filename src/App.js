@@ -23,9 +23,9 @@ function App() {
               <Button href='http://www.linkedin.com/in/gennadij-yatskov' variant="dark" block>
                 <Image src={icon_linkedin} alt="icon-linkedin" className="Contact-icon" />
               </Button></Col>
-            <Col className="Contact-pad text-center">
-              <Button href='mailto:gennadij@yatskov.de' variant="dark" className="text-center" block >
-                <address className="text-center">gennadij@yatskov.de</address>
+            <Col className="Contact-pad">
+              <Button href='mailto:gennadij@yatskov.de' variant="dark" block >
+                <address className="text-center centered-button-content">gennadij@yatskov.de</address>
               </Button>
             </Col>
             <Col className="Contact-pad">

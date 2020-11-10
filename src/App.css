@@ -49,7 +49,7 @@
   opacity: 0.6;
   border: 1px 1px 1px 1px;
   min-width: 100px;
-  min-height: 10vh;
+  min-height: 7vh;
   transition: 0.3s;
   padding: 1em;
 }
@@ -87,15 +87,13 @@
   margin-top: 10%;
   margin-bottom: 10%;
   */
-  left: 50%!important;
-  position: absolute;
   bottom: 50%; /* it will put 50% from the bottom */
   transform: translateY(50%); /* which will put the anchor point to the center of the div */
 }
 
 .Contact-icon {
-  height: 10vh;
-  width:  10vh;
+  height: 7vh;
+  width:  7vh;
 }
 
 footer {
