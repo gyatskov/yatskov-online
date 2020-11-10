@@ -13,20 +13,19 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <Jumbotron>
+      <Jumbotron className="App">
         <header className="App-header">
           <Image src={logo} className="App-logo" alt="logo" />
         </header>
-        <Container className="Contact-row">
-          <Row>
+        <Container >
+          <Row >
             <Col className="Contact-pad">
               <Button href='http://www.linkedin.com/in/gennadij-yatskov' variant="dark" block>
                 <Image src={icon_linkedin} alt="icon-linkedin" className="Contact-icon" />
               </Button></Col>
-            <Col className="Contact-pad">
-              <Button href='mailto:gennadij@yatskov.de' variant="dark" block>
-                gennadij@yatskov.de
+            <Col className="Contact-pad text-center">
+              <Button href='mailto:gennadij@yatskov.de' variant="dark" className="text-center" block >
+                <address className="text-center">gennadij@yatskov.de</address>
               </Button>
             </Col>
             <Col className="Contact-pad">
@@ -36,18 +35,17 @@ function App() {
             </Col>
           </Row>
         </Container>
-      </Jumbotron>
-      <footer>
+      <footer className="fixed-bottom">
         <Container>
         <Row>
           <Col>Copyright 2020</Col>
         </Row>
         <Row>
-          <Col><div>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div></Col>
+          <Col><div class='credits'>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div></Col>
         </Row>
         </Container>
       </footer>
-    </div>
+      </Jumbotron>
   );
 }
 
