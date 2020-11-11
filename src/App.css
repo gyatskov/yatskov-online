@@ -59,15 +59,6 @@
   align-items: center;
 }
 
-.centered-button-content {
-  /*
-  margin-top: 10%;
-  margin-bottom: 10%;
-  */
-  bottom: 50%; /* it will put 50% from the bottom */
-  transform: translateY(50%); /* which will put the anchor point to the center of the div */
-}
-
 .justify-center {
   justify-content: center;
 }
