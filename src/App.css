@@ -52,6 +52,8 @@
 
 .Contact-pad .btn {
   height: 100%;
+  /*font-size:calc(11px + 1.5vw);*/
+  font-size: max(1em, 24px);
 }
 
 .vertical-center {
@@ -74,6 +76,6 @@ footer {
   height: 4vh;
 }
 
-.credits {
+footer .credits {
   font-size: small;
 }

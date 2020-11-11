@@ -13,7 +13,7 @@ import './App.css';
 
 function App() {
   return (
-      <Jumbotron className="App">
+      <Jumbotron className="App jumbotron-fluid">
         <header className="App-header">
           <Image src={logo} className="App-logo" alt="logo" />
         </header>
