@@ -8,12 +8,16 @@
   background-size: cover;
   animation: fade-slide-down .5s ease-out forwards;
 
-  height: 96vh;
+  height: 100vh;
 }
 
 .App .jumbotron {
   background-color: rgba(0, 0, 0, 0.253);
   height: 100%;
+}
+
+.no-margin-bottom {
+  margin-bottom: 0px;
 }
 
 .App-header {
@@ -52,8 +56,11 @@
 
 .Contact-pad .btn {
   height: 100%;
-  /*font-size:calc(11px + 1.5vw);*/
+  font-size: 7vh;
+  font-weight: bold;
+  /*
   font-size: max(1em, 24px);
+  */
 }
 
 .vertical-center {
@@ -73,7 +80,8 @@
 footer {
   color: white;
   background-color: rgba(0, 0, 0, 0.5);
-  height: 4vh;
+  min-height: 1em;
+  height: 1vh;
 }
 
 footer .credits {

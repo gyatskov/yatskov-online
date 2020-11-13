@@ -13,7 +13,7 @@ import './App.css';
 
 function App() {
   return (
-      <Jumbotron className="App jumbotron-fluid">
+      <Jumbotron className="App jumbotron-fluid no-margin-bottom">
         <header className="App-header">
           <Image src={logo} className="App-logo" alt="logo" />
         </header>
@@ -25,7 +25,7 @@ function App() {
               </Button></Col>
             <Col className="Contact-pad">
               <Button href='mailto:gennadij@yatskov.de' variant="dark" block className="vertical-center justify-center">
-                gennadij@yatskov.de
+                @
               </Button>
             </Col>
             <Col className="Contact-pad">
@@ -37,9 +37,6 @@ function App() {
         </Container>
       <footer className="fixed-bottom">
         <Container>
-        <Row>
-          <Col>Copyright 2020</Col>
-        </Row>
         <Row>
           <Col><div class='credits'>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div></Col>
         </Row>
