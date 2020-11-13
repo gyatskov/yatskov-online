@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/yatskov-online/static/css/main.eb607427.chunk.css",
-    "main.js": "/yatskov-online/static/js/main.4a053553.chunk.js",
-    "main.js.map": "/yatskov-online/static/js/main.4a053553.chunk.js.map",
+    "main.css": "/yatskov-online/static/css/main.27d9b49c.chunk.css",
+    "main.js": "/yatskov-online/static/js/main.e8c1f7a9.chunk.js",
+    "main.js.map": "/yatskov-online/static/js/main.e8c1f7a9.chunk.js.map",
     "runtime-main.js": "/yatskov-online/static/js/runtime-main.b618525c.js",
     "runtime-main.js.map": "/yatskov-online/static/js/runtime-main.b618525c.js.map",
     "static/css/2.5b44f0a0.chunk.css": "/yatskov-online/static/css/2.5b44f0a0.chunk.css",
     "static/js/2.168b2da9.chunk.js": "/yatskov-online/static/js/2.168b2da9.chunk.js",
     "static/js/2.168b2da9.chunk.js.map": "/yatskov-online/static/js/2.168b2da9.chunk.js.map",
     "index.html": "/yatskov-online/index.html",
-    "precache-manifest.03a8b2c97bda9921ae4c191dc412badf.js": "/yatskov-online/precache-manifest.03a8b2c97bda9921ae4c191dc412badf.js",
+    "precache-manifest.02f2fa1b642230c9cbd40d28d63a04b5.js": "/yatskov-online/precache-manifest.02f2fa1b642230c9cbd40d28d63a04b5.js",
     "service-worker.js": "/yatskov-online/service-worker.js",
     "static/css/2.5b44f0a0.chunk.css.map": "/yatskov-online/static/css/2.5b44f0a0.chunk.css.map",
-    "static/css/main.eb607427.chunk.css.map": "/yatskov-online/static/css/main.eb607427.chunk.css.map",
+    "static/css/main.27d9b49c.chunk.css.map": "/yatskov-online/static/css/main.27d9b49c.chunk.css.map",
     "static/js/2.168b2da9.chunk.js.LICENSE.txt": "/yatskov-online/static/js/2.168b2da9.chunk.js.LICENSE.txt",
     "static/media/App.css": "/yatskov-online/static/media/20180517_123646.89d443db.jpg",
     "static/media/B-github.svg": "/yatskov-online/static/media/B-github.192a6620.svg",
@@ -22,7 +22,7 @@
     "static/js/runtime-main.b618525c.js",
     "static/css/2.5b44f0a0.chunk.css",
     "static/js/2.168b2da9.chunk.js",
-    "static/css/main.eb607427.chunk.css",
-    "static/js/main.4a053553.chunk.js"
+    "static/css/main.27d9b49c.chunk.css",
+    "static/js/main.e8c1f7a9.chunk.js"
   ]
 }
