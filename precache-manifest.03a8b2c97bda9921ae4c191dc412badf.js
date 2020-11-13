@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5b0bd42660bb022ecd65ddaace9523fa",
+    "revision": "ba544f29be7071f671df890b0f91a28f",
     "url": "/yatskov-online/index.html"
   },
   {
-    "revision": "e164e2790984f6541ca2",
+    "revision": "85c96e5693e6aaf467b8",
     "url": "/yatskov-online/static/css/2.5b44f0a0.chunk.css"
   },
   {
-    "revision": "b6f091b50e99a8aad3ca",
-    "url": "/yatskov-online/static/css/main.3a1a96d5.chunk.css"
+    "revision": "79cec3536a2a03677eb0",
+    "url": "/yatskov-online/static/css/main.eb607427.chunk.css"
   },
   {
-    "revision": "e164e2790984f6541ca2",
-    "url": "/yatskov-online/static/js/2.ff37fce4.chunk.js"
+    "revision": "85c96e5693e6aaf467b8",
+    "url": "/yatskov-online/static/js/2.168b2da9.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/yatskov-online/static/js/2.ff37fce4.chunk.js.LICENSE.txt"
+    "url": "/yatskov-online/static/js/2.168b2da9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b6f091b50e99a8aad3ca",
-    "url": "/yatskov-online/static/js/main.93b55c3c.chunk.js"
+    "revision": "79cec3536a2a03677eb0",
+    "url": "/yatskov-online/static/js/main.4a053553.chunk.js"
   },
   {
     "revision": "8b1c31d4365a9a5da7e2",
