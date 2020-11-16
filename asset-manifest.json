@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/yatskov-online/static/css/main.fce5d626.chunk.css",
+    "main.css": "/yatskov-online/static/css/main.d89a0980.chunk.css",
     "main.js": "/yatskov-online/static/js/main.e8c1f7a9.chunk.js",
     "main.js.map": "/yatskov-online/static/js/main.e8c1f7a9.chunk.js.map",
     "runtime-main.js": "/yatskov-online/static/js/runtime-main.b618525c.js",
@@ -9,12 +9,12 @@
     "static/js/2.168b2da9.chunk.js": "/yatskov-online/static/js/2.168b2da9.chunk.js",
     "static/js/2.168b2da9.chunk.js.map": "/yatskov-online/static/js/2.168b2da9.chunk.js.map",
     "index.html": "/yatskov-online/index.html",
-    "precache-manifest.b86e0db7e248cc59e8fde50d615d23e4.js": "/yatskov-online/precache-manifest.b86e0db7e248cc59e8fde50d615d23e4.js",
+    "precache-manifest.a9b7277ae689a5d8e59c58d14b4ef51a.js": "/yatskov-online/precache-manifest.a9b7277ae689a5d8e59c58d14b4ef51a.js",
     "service-worker.js": "/yatskov-online/service-worker.js",
     "static/css/2.5b44f0a0.chunk.css.map": "/yatskov-online/static/css/2.5b44f0a0.chunk.css.map",
-    "static/css/main.fce5d626.chunk.css.map": "/yatskov-online/static/css/main.fce5d626.chunk.css.map",
+    "static/css/main.d89a0980.chunk.css.map": "/yatskov-online/static/css/main.d89a0980.chunk.css.map",
     "static/js/2.168b2da9.chunk.js.LICENSE.txt": "/yatskov-online/static/js/2.168b2da9.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/yatskov-online/static/media/20180517_123646.89d443db.jpg",
+    "static/media/App.css": "/yatskov-online/static/media/20180517_123646.df1a497a.jpg",
     "static/media/B-github.svg": "/yatskov-online/static/media/B-github.192a6620.svg",
     "static/media/B-linkedin.svg": "/yatskov-online/static/media/B-linkedin.20177402.svg"
   },
@@ -22,7 +22,7 @@
     "static/js/runtime-main.b618525c.js",
     "static/css/2.5b44f0a0.chunk.css",
     "static/js/2.168b2da9.chunk.js",
-    "static/css/main.fce5d626.chunk.css",
+    "static/css/main.d89a0980.chunk.css",
     "static/js/main.e8c1f7a9.chunk.js"
   ]
 }
